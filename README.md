@@ -21,4 +21,5 @@ where the user can,
 7)Pay using COD or PayPal.
 
 This project is run in localhost to run this project you need xxap server and VS code Editor.
+The main file is ecom/index.php  
 Thank you.
